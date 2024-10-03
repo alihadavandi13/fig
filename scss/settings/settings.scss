@@ -1,0 +1,27 @@
+*{
+    margin:0 ;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+@font-face {
+    font-family: poppins;
+    src: url("../../fonts/Poppins/Poppins-Regular.ttf");
+}
+@font-face {
+    font-family: raleway;
+    src: url("../../fonts/Raleway/Raleway-Regular.ttf");
+}
+
+$oragne:#DA722C;
+$blue:#057ADA;
+$white:#E8F7FB;
+$navy:#023047;
+$dark:#070917;
+$lightblue:#6F7DFB;
+
+
+.wrapper{
+    width: 100%;
+    
+}
